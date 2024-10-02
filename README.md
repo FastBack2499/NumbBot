@@ -1,7 +1,4 @@
-Here is an improved README for your "NumbBot" repository:
 
-
----
 
 NumbBot - A Simple Discord Bot
 
